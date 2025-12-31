@@ -1,4 +1,5 @@
 numpy
 matplotlib
 tensorboard
-scikit-learn
+torchmetrics[image]
+torch-fidelity
