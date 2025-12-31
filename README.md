@@ -5,3 +5,7 @@ Dataset link: https://www.kaggle.com/datasets/bajajganesh/sprites-16x16-dataset
 
 ### DCGAN v1.0 Output:
 ![Sample Output](asset/output.png)
+
+### Installation
+python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+pip install requirement.txt
