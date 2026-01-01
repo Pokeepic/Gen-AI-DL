@@ -9,4 +9,6 @@ Dataset link: https://www.kaggle.com/datasets/bajajganesh/sprites-16x16-dataset
 ### Installation
 python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
 pip install requirement.txt
-https://www.kaggle.com/datasets/ebrahimelgazar/pixel-art/data
+
+
+1/1/2026: testing using diffuser for genai (testonly)
