@@ -7,6 +7,10 @@ Dataset link: https://www.kaggle.com/datasets/ebrahimelgazar/pixel-art/data
 ![Sample Output](asset/output.png)
 
 ### Installation
+```bash
 pip install requirement.txt
+```
 
-1/1/2026: testing using diffuser for genai (testonly)
+#### Download PyTorch CUDA version to train on GPU
+https://pytorch.org/get-started/locally/
+
