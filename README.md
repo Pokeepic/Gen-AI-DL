@@ -1,4 +1,4 @@
-Dataset link: https://www.kaggle.com/datasets/bajajganesh/sprites-16x16-dataset
+Dataset link: https://www.kaggle.com/datasets/ebrahimelgazar/pixel-art/data
 
 ### Sample: 
 ![Sample Data image](asset/sample2.png)
@@ -7,8 +7,10 @@ Dataset link: https://www.kaggle.com/datasets/bajajganesh/sprites-16x16-dataset
 ![Sample Output](asset/output.png)
 
 ### Installation
-python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+```bash
 pip install requirement.txt
+```
 
+#### Download PyTorch CUDA version to train on GPU
+https://pytorch.org/get-started/locally/
 
-1/1/2026: testing using diffuser for genai (testonly)
