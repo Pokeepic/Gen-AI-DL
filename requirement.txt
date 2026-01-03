@@ -1,5 +1,6 @@
 numpy
 matplotlib
-tensorboard
+torch
+torchvision
 torchmetrics[image]
 torch-fidelity
