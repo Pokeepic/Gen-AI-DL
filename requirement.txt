@@ -3,3 +3,4 @@ matplotlib
 tensorboard
 kagglehub
 scikit-learn
+pandas
