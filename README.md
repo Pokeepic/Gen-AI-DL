@@ -9,6 +9,7 @@ Dataset link: https://www.kaggle.com/datasets/ebrahimelgazar/pixel-art/data
 ### Installation
 ```bash
 pip install requirement.txt
+python -m pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cu128 --force-reinstall --no-cache-dir
 ```
 
 #### Download PyTorch CUDA version to train on GPU

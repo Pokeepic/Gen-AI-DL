@@ -1,6 +1,4 @@
 numpy
 matplotlib
-torch
-torchvision
-torchmetrics[image]
-torch-fidelity
+tensorboard
+kagglehub
