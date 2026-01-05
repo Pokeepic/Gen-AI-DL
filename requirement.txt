@@ -5,3 +5,7 @@ torchvision
 torchmetrics[image]
 torch-fidelity
 kagglehub
+tensorboard
+kagglehub
+scikit-learn
+pandas
