@@ -6,10 +6,14 @@ Dataset link: https://www.kaggle.com/datasets/ebrahimelgazar/pixel-art/data
 ### DCGAN v1.0 Output:
 ![Sample Output](asset/output.png)
 
+### DC + Conditional GAN
+![Sample Output](asset/output3.png)
+
 ### Installation
 ```bash
 pip install requirement.txt
 ```
+
 
 #### Download PyTorch CUDA version to train on GPU
 https://pytorch.org/get-started/locally/
