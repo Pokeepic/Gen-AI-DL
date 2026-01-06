@@ -4,3 +4,7 @@ tensorboard
 kagglehub
 scikit-learn
 pandas
+torch
+torchvision
+torchmetrics[image]
+torch-fidelity
