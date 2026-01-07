@@ -9,6 +9,8 @@ Dataset link: https://www.kaggle.com/datasets/ebrahimelgazar/pixel-art/data
 ### DC + Conditional GAN
 ![Sample Output](asset/output3.png)
 
+### Comparison : Different parameter(LG, LD, num_epoch)
+
 ### Installation
 ```bash
 pip install requirement.txt
