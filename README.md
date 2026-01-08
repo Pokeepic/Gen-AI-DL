@@ -10,6 +10,7 @@ Dataset link: https://www.kaggle.com/datasets/ebrahimelgazar/pixel-art/data
 ![Sample Output](asset/output3.png)
 
 ### Comparison : Different parameter(LG, LD, num_epoch)
+![Sample Output](asset/comparison.png)
 
 ### Installation
 ```bash
