@@ -1,5 +1,10 @@
 numpy
 matplotlib
+torch
+torchvision
+torchmetrics[image]
+torch-fidelity
+kagglehub
 tensorboard
 kagglehub
 scikit-learn

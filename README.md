@@ -6,6 +6,12 @@ Dataset link: https://www.kaggle.com/datasets/ebrahimelgazar/pixel-art/data
 ### DCGAN v1.0 Output:
 ![Sample Output](asset/output.png)
 
+### DC + Conditional GAN
+![Sample Output](asset/output3.png)
+
+### Comparison : Different parameter(LG, LD, num_epoch)
+![Sample Output](asset/comparison.png)
+
 ### Installation
 ```bash
 pip install requirement.txt
@@ -18,6 +24,7 @@ python -m pip install torch torchvision --extra-index-url https://download.pytor
 ```bash
 MAC ONLY:pip install torch torchvision
 ```
+
 
 #### Download PyTorch CUDA version to train on GPU
 https://pytorch.org/get-started/locally/
