@@ -1,10 +1,11 @@
 numpy
 matplotlib
-tensorboard
-kagglehub
-scikit-learn
-pandas
 torch
 torchvision
 torchmetrics[image]
 torch-fidelity
+kagglehub
+tensorboard
+kagglehub
+scikit-learn
+pandas
