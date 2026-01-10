@@ -29,3 +29,4 @@ MAC ONLY:pip install torch torchvision
 #### Download PyTorch CUDA version to train on GPU
 https://pytorch.org/get-started/locally/
 
+![Sample Output](asset/output.png)
