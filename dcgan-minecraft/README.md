@@ -38,3 +38,9 @@ everything else is the same as dcgan
 
 ### WORST SPRITES GENERATED
 ![EVAL](../asset/eval_minecraft_augmented_low_D_score.png)
+
+
+## Gif
+![gif](my_augmentation.gif)
+
+
