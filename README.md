@@ -30,3 +30,5 @@ MAC ONLY:pip install torch torchvision
 https://pytorch.org/get-started/locally/
 
 ![Sample Output](asset/output.png)
+
+
